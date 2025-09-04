@@ -20,7 +20,7 @@ Data is stored in **localStorage**, so it persists even after refreshing the pag
 ## 📸 Screenshots
 
 ### Home
-![Home Screenshot]((https://res.cloudinary.com/dx24q59wt/image/upload/v1756975185/project_javascript_qw2fsx.png))
+![Home Screenshot](https://res.cloudinary.com/dx24q59wt/image/upload/v1756975185/project_javascript_qw2fsx.png)
 
 ---
 
@@ -39,3 +39,13 @@ Data is stored in **localStorage**, so it persists even after refreshing the pag
    ```bash
    git clone https://github.com/Bhuvaneshwaran-17/employee_db.git
    cd employee_db
+
+## 🚀 Deployment
+This project is deployed using **Vercel**.  
+Every push to the `main` branch triggers an automatic redeployment.  
+
+
+## 👨‍💻 Author
+**Bhuvaneshwaran**  
+- GitHub: [Bhuvaneshwaran-17](https://github.com/Bhuvaneshwaran-17)  
+- Live Project: [Employee DB Live](https://employeedblive.vercel.app/)
