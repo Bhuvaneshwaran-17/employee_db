@@ -20,7 +20,7 @@ Data is stored in **localStorage**, so it persists even after refreshing the pag
 ## 📸 Screenshots
 
 ### Home
-![Home Screenshot]([https://res.cloudinary.com/dx24q59wt/image/upload/v1756910077/man_ovc8fp.png](https://res.cloudinary.com/dx24q59wt/image/upload/v1756975185/project_javascript_qw2fsx.png))
+![Home Screenshot]((https://res.cloudinary.com/dx24q59wt/image/upload/v1756975185/project_javascript_qw2fsx.png))
 
 ---
 
